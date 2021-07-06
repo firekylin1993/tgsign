@@ -8,14 +8,13 @@
 3. Python 3.5+
 
 ## 三、开启TG API
-申请网址：
-```
-https://my.telegram.org
-```
+申请网址：[](https://my.telegram.org)
 1. 输入手机号登录，注意验证码会发送至TG客户端而不会以短信形式发送
-2. 登录进去后选“API development tools”
-3. 开通完成后，保存api_id、api_hash两个值
-
+2. 登录进去后选"API development tools"
+3. 根据下图提示输入申请信息
+![提示1](https://i.loli.net/2021/07/05/LbZ2JPwotr84lzg.png "提示1")
+5. 开通完成后，保存api_id、api_hash两个值
+![提示2](https://i.loli.net/2021/07/05/eGr7tYl1JPSMzAD.png "提示2")
 
 ## 四、安装Python与Telethon
 1. 安装Python
