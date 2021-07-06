@@ -1,6 +1,6 @@
 # tgsign
 ## 一、简介
-基于TG API以及Python的第三方包Telethon，每天定时上TG自动签到
+基于TG API以及Python的第三方包Telethon，每天定时TG自动签到
 
 ## 二、准备工作
 1. 已开启API的TG号（下面会讲述如何开启TG API）
