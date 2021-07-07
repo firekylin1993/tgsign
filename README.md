@@ -43,4 +43,5 @@ pip3 install telethon
 
 ## 五、自动签到脚本（Python版）
 1. 复制以下代码，根据需要修改6、7、14、16行，保存为tgsign.py
+![提示3](https://i.loli.net/2021/07/05/eGr7tYl1JPSMzAD.png "提示3")
 2. 先运行一次脚本，输入python3 tgsign.py回车，根据提示填写手机号与验证码。成功后Telethon会在当前文件夹下生成.session会话文件，以后就不用再输入验证码了（如无法生成会话文件，请检查Python内置库sqlite3是否已正常安装）
